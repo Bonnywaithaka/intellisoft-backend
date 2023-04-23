@@ -1,0 +1,23 @@
+{
+    "scripts": {
+        "test": "echo \"error: no test specified\" && exit 1",
+        "start": "nodemon server.js",
+        "build": "npm i"
+        
+      },
+      
+    "keywords": [],
+    "author": "dishon",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dom": "^0.0.3",
+        "express": "^4.18.2",
+        "init": "^0.1.2",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.22",
+        "react": "^18.2.0",
+        "react-router": "^6.10.0",
+        "react-router-dom": "^6.10.0"
+    }
+}
